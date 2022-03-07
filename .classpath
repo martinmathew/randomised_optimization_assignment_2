@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/MS/ML/assignment_2/ABAGAIL/ABAGAIL.jar" sourcepath="D:/MS/ML/assignment_2/ABAGAIL"/>
+	<classpathentry kind="lib" path="C:/Users/marti/eclipse-workspace/Ass2_randomized_optimization/commons-csv-1.9.0.jar" sourcepath="E:/downloads/commons-csv-1.9.0-bin/commons-csv-1.9.0/commons-csv-1.9.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
