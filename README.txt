@@ -7,7 +7,8 @@ cd randomised_optimization_assignment_2
 conda env update --prefix ./env --file requirements.yml --prune
 conda activate path to env\env
 
-RUN Algorithims
+#Install Java 8
+#RUN Algorithims
 java -classpath lib\ABAGAIL.jar;lib\commons-csv-1.9.0.jar;. RandomizedOPT
 
 Generate Charts
