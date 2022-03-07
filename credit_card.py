@@ -221,9 +221,9 @@ def main(name):
     # X,y = split_data(new_df)
     # models_evaluation(X, y,5)
     # confusion_matrix(new_df)
-    # test_fit_random_hill_climb(new_df)
+    test_fit_random_hill_climb(new_df)
 
-    # test_fit_random_sa(new_df)
+    test_fit_random_sa(new_df)
 
     test_fit_random_ga(new_df)
 
